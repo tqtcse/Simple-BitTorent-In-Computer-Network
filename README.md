@@ -6,9 +6,10 @@ A simple BitTorrent app is an application that implements the core principles of
 ![aa](https://github.com/user-attachments/assets/bf8af69b-7c90-4450-8dcc-63f539c7dfad)
 # Installation
 1. Clone the repository:
+``
 `git clone: https://github.com/tqtcse/Simple-BitTorent-In-Computer-Network`
 `cd your-repo`
-2. Install the required libraries:
+3. Install the required libraries:
 `pip install -r requirements.txt`
 # How To Run 
 1. The first computer is used as a tracker. When run this command, we can see the ip of the http tracker.
