@@ -18,9 +18,9 @@ A simple BitTorrent app is an application that implements the core principles of
    
    `python app.py`
    
-3. The second computer run as a peer. When run this command, we will see the menu that cotains list of command the app provide. Run the command that the peer want to use
+2. The second computer run as a peer. When run this command, we will see the menu that cotains list of command the app provide. Run the command that the peer want to use
    
-  `python peer.py`
+   `python peer.py`
 
 # User Command Line Interface
 ![Interface](https://github.com/user-attachments/assets/29383344-e54c-4d29-b1fd-2bdcbaa83274)
