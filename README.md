@@ -12,6 +12,7 @@ A simple BitTorrent app is an application that implements the core principles of
    `cd your-repo`
 
 2. Install the required libraries:
+   
    `pip install -r requirements.txt`
 # How To Run 
 1. The first computer is used as a tracker. When run this command, we can see the ip of the http tracker.
