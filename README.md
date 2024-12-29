@@ -7,9 +7,9 @@ A simple BitTorrent app is an application that implements the core principles of
 # Installation
 1. Clone the repository:
 
-  `git clone: https://github.com/tqtcse/Simple-BitTorent-In-Computer-Network`
+   `git clone: https://github.com/tqtcse/Simple-BitTorent-In-Computer-Network`
 
-  `cd your-repo`
+   `cd your-repo`
 
 2. Install the required libraries:
    `pip install -r requirements.txt`
