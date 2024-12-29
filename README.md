@@ -7,12 +7,12 @@ A simple BitTorrent app is an application that implements the core principles of
 # Installation
 1. Clone the repository:
 
-`git clone: https://github.com/tqtcse/Simple-BitTorent-In-Computer-Network`
+  `git clone: https://github.com/tqtcse/Simple-BitTorent-In-Computer-Network`
 
-`cd your-repo`
+  `cd your-repo`
 
 2. Install the required libraries:
-`pip install -r requirements.txt`
+   `pip install -r requirements.txt`
 # How To Run 
 1. The first computer is used as a tracker. When run this command, we can see the ip of the http tracker.
    
@@ -20,7 +20,7 @@ A simple BitTorrent app is an application that implements the core principles of
    
 3. The second computer run as a peer. When run this command, we will see the menu that cotains list of command the app provide. Run the command that the peer want to use
    
-`python peer.py`
+  `python peer.py`
 
 # User Command Line Interface
 ![Interface](https://github.com/user-attachments/assets/29383344-e54c-4d29-b1fd-2bdcbaa83274)
